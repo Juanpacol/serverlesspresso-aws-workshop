@@ -22,7 +22,6 @@ Three microservices communicate exclusively through **Amazon EventBridge** — n
 | QR Validator | Validates customer session before allowing an order |
 | Publisher | Pushes real-time WebSocket updates via AWS AppSync Events |
 
-![Completed Architecture](assets/arquitectura-completa.png)
 
 ---
 
